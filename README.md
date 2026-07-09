@@ -1,10 +1,11 @@
 # go-pkg-flow
 
-## install
+### install
 ```bash
 go install github.com/vishu42/go-pkg-flow@latest
 ```
 
+### usage
 ```bash
 # run commands from root of the repo
 go-pkg-flow -out pkgflow.html
